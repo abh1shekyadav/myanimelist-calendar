@@ -1,0 +1,1 @@
+An extension to track the schedule of currently watching animes.
